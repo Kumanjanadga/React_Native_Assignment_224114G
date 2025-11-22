@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "FitBuddy",
+    "slug": "fitbuddy",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.fitbuddy.app"
+    },
+    "android": {
+      "package": "com.fitbuddy.app"
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
+
