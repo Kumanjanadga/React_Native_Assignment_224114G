@@ -284,7 +284,7 @@ This project is created for educational purposes as part of a React Native assig
 
 ## 👨‍💻 Author
 
-Index Number: 224066J
+Index Number: 224114G
 Domain: Health & Wellness
 App Name: FitBuddy
 
