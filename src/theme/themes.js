@@ -5,7 +5,7 @@ export const lightTheme = {
     primaryLight: '#818CF8',
     secondary: '#10B981',
     secondaryDark: '#059669',
-    background: '#FAFBFC',
+    background: '#021024',
     surface: '#FFFFFF',
     surfaceElevated: '#FFFFFF',
     text: '#111827',

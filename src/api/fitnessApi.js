@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const API_BASE_URL = 'https://api.api-ninjas.com/v1';
-const API_KEY = 'YOUR_API_KEY_HERE';
+const API_KEY = '3nxo5uqrtE7IqNJDxuJIRA==UT35CzlhmPftV5WO';
 
 const apiClient = axios.create({
   baseURL: API_BASE_URL,
